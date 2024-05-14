@@ -4,6 +4,7 @@ This repository contains the implementation and evaluation of a Retrieval Augmen
 
 # Contents:
 rag_llm_final.ipynb: The main Jupyter notebook containing the implementation of the RAG system.
+
 CMU_Student_Handbook.pdf: The dataset used for creating embeddings and testing the RAG system.
 
 
