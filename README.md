@@ -24,7 +24,7 @@ Retrieval Augmented Generation (RAG) is a technique used to improve the quality 
 - Using different chunking methods to create embeddings and compare results.
 
 # Requirements
-Python 3.8+
-Jupyter Notebook
-sentence-transformers library
-pinecone-client library
+- Python 3.8+
+- Jupyter Notebook
+- sentence-transformers library
+- pinecone-client library
